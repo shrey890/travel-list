@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06930564.css",
+    "main.js": "/static/js/main.8f75cc5d.js",
+    "static/media/So far away_01.mp3": "/static/media/So far away_01.9e81ccdecb390959c56e.mp3",
+    "index.html": "/index.html",
+    "main.06930564.css.map": "/static/css/main.06930564.css.map",
+    "main.8f75cc5d.js.map": "/static/js/main.8f75cc5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06930564.css",
+    "static/js/main.8f75cc5d.js"
+  ]
+}
